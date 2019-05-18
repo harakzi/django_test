@@ -25,7 +25,8 @@ SECRET_KEY = 'xyn*(#e_n#b$zhsc(u+kh+^z6898eap!a&nfxi-8sb5i0(y5op'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+#最終追加
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
